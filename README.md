@@ -6,7 +6,6 @@
 ![Inteliji](https://img.shields.io/badge/Inteliji-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000)
 ![Java](https://img.shields.io/badge/Java-Code-orange?style=for-the-badge&logo=intellijidea&logoColor=orange)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Code-7F52FF?style=for-the-badge&logo=kotlin&logoColor=#7F52FF)
-![Javascript](https://img.shields.io/badge/Javascript-Code-F7DF1E?style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 ![Typescript](https://img.shields.io/badge/Typescript-Code-3178C6?style=for-the-badge&logo=typescript&logoColor=#3178C6)
 ![Lua](https://img.shields.io/badge/LUA-Code-2C2D72?style=for-the-badge&logo=lua&logoColor=#2C2D72)
 ![C#](https://img.shields.io/badge/C%20Sharp-Code-239120?style=for-the-badge&logo=csharp&logoColor=#239120)
