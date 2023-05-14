@@ -10,7 +10,7 @@
 ![Lua](https://img.shields.io/badge/LUA-Code-2C2D72?style=for-the-badge&logo=lua&logoColor=#2C2D72)
 ![C#](https://img.shields.io/badge/C%20Sharp-Code-239120?style=for-the-badge&logo=csharp&logoColor=#239120)
 ![VisualBasic](https://img.shields.io/badge/VisualBasic-Code-512BD4?style=for-the-badge&logo=dotnet&logoColor=#512BD4)
-## Hobbies:
+## Other:
 ![After Effects](https://img.shields.io/badge/After%20Effects-Adobe-red?style=for-the-badge&logo=adobeaftereffects&logoColor=red)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-orange?style=for-the-badge&logo=adobepremierepro&logoColor=orange)
 ![Streaming](https://img.shields.io/badge/vMix-Streaming-yellow?style=for-the-badge&logo=obsstudio&logoColor=yellow)
