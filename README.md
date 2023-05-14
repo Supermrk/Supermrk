@@ -1,6 +1,6 @@
 # 🔖 Supermrk:
 * Freshman in High School
-* Programming & Video Engineering as a Hobby
+* Pursuing Programming & Video Engineering as a hobby
 
 ## Programming:
 ![Inteliji](https://img.shields.io/badge/Inteliji-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000)
