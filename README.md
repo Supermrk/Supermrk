@@ -1,4 +1,4 @@
-# 🏷️ Supermrk:
+# 🔖 Supermrk:
 * Freshman in High School
 * Programming & Video Engineering as a Hobby
 
