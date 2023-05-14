@@ -1,6 +1,4 @@
 # 🔖 Supermrk:
-* Freshman in High School
-* Programming & Video Engineering as a Hobby
 
 ## Programming:
 ![Inteliji](https://img.shields.io/badge/Inteliji-IDE-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000)
@@ -17,6 +15,9 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-orange?style=for-the-badge&logo=adobepremierepro&logoColor=orange)
 ![Streaming](https://img.shields.io/badge/vMix-Streaming-yellow?style=for-the-badge&logo=obsstudio&logoColor=yellow)
 ![Music](https://img.shields.io/badge/Music-The%20Dinos-1DB954?style=for-the-badge&logo=spotify&logoColor=#1DB954)
+
+***
+
 [![Eleven](https://cdn.discordapp.com/attachments/908838951127769088/1107134969354129479/eleven.png)](https://open.spotify.com/embed/track/44F0s0yh7MY9IwZxQtzZu8)
 [![Zoom](https://media.discordapp.net/attachments/908838951127769088/1107134663023153253/zoom.png)](https://open.spotify.com/embed/track/6eSB9z6SKIlGeqMLvO5lAb)
 [![Purist](https://cdn.discordapp.com/attachments/908838951127769088/1107134662767280170/purist.png)](https://open.spotify.com/embed/track/7t2j2tVVAjMhyGqEAgh3E8)
