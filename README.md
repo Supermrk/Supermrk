@@ -8,7 +8,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Code-7F52FF?style=for-the-badge&logo=kotlin&logoColor=#7F52FF)
 ![Typescript](https://img.shields.io/badge/Typescript-Code-3178C6?style=for-the-badge&logo=typescript&logoColor=#3178C6)
 ![Lua](https://img.shields.io/badge/LUA-Code-2C2D72?style=for-the-badge&logo=lua&logoColor=#2C2D72)
-![C#](https://img.shields.io/badge/C%20Sharp-Code-239120?style=for-the-badge&logo=csharp&logoColor=#239120)
+![C#](https://img.shields.io/badge/C%23-Code-239120?style=for-the-badge&logo=csharp&logoColor=#239120)
 ![VisualBasic](https://img.shields.io/badge/VisualBasic-Code-512BD4?style=for-the-badge&logo=dotnet&logoColor=#512BD4)
 ## Other:
 ![After Effects](https://img.shields.io/badge/After%20Effects-Adobe-red?style=for-the-badge&logo=adobeaftereffects&logoColor=red)
