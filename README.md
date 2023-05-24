@@ -11,11 +11,6 @@
 ![C#](https://img.shields.io/badge/C%23-Code-239120?style=for-the-badge&logo=csharp&logoColor=#239120)
 ![VisualBasic](https://img.shields.io/badge/VisualBasic-Code-512BD4?style=for-the-badge&logo=dotnet&logoColor=#512BD4)
 
-## Frameworks:
-![Spring](https://img.shields.io/badge/Spring-Java-6DB33F?style=for-the-badge&logo=spring&logoColor=#6DB33F)
-![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react&logoColor=#61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=#000000)
-
 ## Other:
 ![After Effects](https://img.shields.io/badge/After%20Effects-Adobe-red?style=for-the-badge&logo=adobeaftereffects&logoColor=red)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-orange?style=for-the-badge&logo=adobepremierepro&logoColor=orange)
