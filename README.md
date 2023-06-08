@@ -16,3 +16,6 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-Adobe-orange?style=for-the-badge&logo=adobepremierepro&logoColor=orange)
 ![Streaming](https://img.shields.io/badge/vMix-Streaming-yellow?style=for-the-badge&logo=obsstudio&logoColor=yellow)
 ![Music](https://img.shields.io/badge/Music-The%20Dinos-1DB954?style=for-the-badge&logo=spotify&logoColor=#1DB954)
+
+## Projects:
+<a href="https://github.com/Supermrk/FusionAPI"><img width=300 src="https://raw.githubusercontent.com/Supermrk/FusionAPI/main/images/Logo.png" alt="Logo"/></a>
