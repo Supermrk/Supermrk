@@ -1,5 +1,4 @@
 # 🔖 Supermrk:
-* Freshman in High School
 * Pursuing Programming & Video Engineering as a hobby
 
 ## Programming:
